@@ -1,0 +1,27 @@
+body{
+    background-color: darkcyan;
+}
+#main{
+    background-color: orange;
+    width: 600;
+    height: 500px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.col-gamer{
+    background-color: red;
+    margin: 0 20px;
+    width: 30px;
+    /*height: 250px;*/
+}
+.score{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
